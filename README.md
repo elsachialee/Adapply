@@ -19,7 +19,9 @@ It is THE **_Struggle_**.
 #### Work Experience:
 
 1. 2008.11 - - 2011.07:   Shanghai Bones Studios Co., Ltd
-Position: Co-funder                         
+
+Position: Co-funder 
+
   * Set up and implement policy and regulations; draft staff handbook
   * Generate the agreements and benefits with employees
   * Supervise the sourcing of suppliers and contracts 
@@ -30,8 +32,10 @@ Position: Co-funder
 		                         
 
 2. 2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd
+
 Position: Assistant Personnel Development Manager   (2007.04 - - 2008.10）
 _Report to: Coo, EA China Studios_
+
   * Screen, recruit, interview and evaluate developer candidates
   * Conduct developer performance reviews through 1-on-1 meetings, peers and project leads 
   * Work with each developer to determine a professional development plan (PDP) 
@@ -44,6 +48,7 @@ _Report to: Coo, EA China Studios_
   
 Position: Administrator of GM   (2006.04 - - 2007.03)
 _Report to: GM of EA China Studio_ 
+
   * Organize office for maximum operational efficiency 
   * Process outgoing mail
   * Maintain confidential information
@@ -57,7 +62,9 @@ _Report to: GM of EA China Studio_
   * Interview candidates as needed
 
 3. 2004.02 - - 2006.03:   Taiwan 3choices Information and Technology (Shanghai) Co., Ltd
+
 Position:  Internship (2004.02-2004.07) Office Manager (2004.07-2006.03)
+
   * Monitors office expenditures and evaluate the potential vendors 
   * Set up and implement policy and regulations
   * Draft staff handbook
