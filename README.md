@@ -41,6 +41,7 @@ _Report to: Coo, EA China Studios_
   * Collaborate with EA China HR and EA University and execute overall staffing and training strategy
   * Create a strong atmosphere with emphasis on company culture 
   * Event supporter and volunteer for company annual dinner, team events
+  
 Position: Administrator of GM   (2006.04 - - 2007.03)
 _Report to: GM of EA China Studio_ 
   * Organize office for maximum operational efficiency 
