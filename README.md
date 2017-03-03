@@ -1,6 +1,9 @@
 ## Welcome to Jia Li's Pages
 
-### Struggle
+### Who I am?
+1. Mom with 2 kids
+2. Immigrant
+
 
 
 
