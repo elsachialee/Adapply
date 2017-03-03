@@ -14,7 +14,7 @@ It is THE **_Struggle_**.
   
   I am looking forward to a chance.
   
-  ## Resume of Jia Li
+# Resume of Jia Li
   
   
  
