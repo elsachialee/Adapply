@@ -1,6 +1,6 @@
 ## Welcome to Jia Li's Pages
 
-It is 11:02pm March 02 when I was sitting down and stating typing. I looked at my two sleeping kids, and I asked myself why do I want to apply Ada.
+It is 11:02pm March 02 when I was sitting down and starting typing. I looked at my two sleeping kids, and I asked myself why do I want to apply Ada.
 
 It is THE **_Struggle_**.
 
@@ -15,8 +15,12 @@ It is THE **_Struggle_**.
   I am looking forward to a chance.
   
 ## Resume of Jia Li
-  
-#### Work Experience:
+
+#### Part-time Working Experience:
+
+
+
+#### Full-time Working Experience:
 
 1. 2008.11 - - 2011.07:   Shanghai Bones Studios Co., Ltd
 
