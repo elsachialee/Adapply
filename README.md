@@ -18,15 +18,15 @@ It is THE **_Struggle_**.
   
   Work Experience:
 
-2008.11 - - 2011.07:		Shanghai Bones Studios Co., Ltd
-					Position: Co-funder 
-	Set up and implement policy and regulations; draft staff handbook
-	Generate the agreements and benefits with employees
-	Supervise the sourcing of suppliers and contracts 
-	Conduct employee performance reviews with other funders
-	As the key person dealing with all the affairs 
-	Submit administration cost summaries and monthly budget reports to other funders
-	Establish and keep good relations with related government departments 
+1. 2008.11 - - 2011.07:   Position: Co-funder   Shanghai Bones Studios Co., Ltd
+                          
+  * Set up and implement policy and regulations; draft staff handbook
+  * Generate the agreements and benefits with employees
+  * Supervise the sourcing of suppliers and contracts 
+  * Conduct employee performance reviews with other funders
+  * As the key person dealing with all the affairs 
+  * Submit administration cost summaries and monthly budget reports to other funders
+  * Establish and keep good relations with related government departments 
 		                         
 
 2006.04 - - 2008.10: 		Electronic Arts computer software (Shanghai) Co., Ltd
