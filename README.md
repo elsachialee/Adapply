@@ -14,9 +14,84 @@ It is THE **_Struggle_**.
   
   I am looking forward to a chance.
   
-# Resume of Jia Li
+## Resume of Jia Li
   
-  
+  Work Experience:
+
+2008.11 - - 2011.07:		Shanghai Bones Studios Co., Ltd
+					Position: Co-funder 
+	Set up and implement policy and regulations; draft staff handbook
+	Generate the agreements and benefits with employees
+	Supervise the sourcing of suppliers and contracts 
+	Conduct employee performance reviews with other funders
+	As the key person dealing with all the affairs 
+	Submit administration cost summaries and monthly budget reports to other funders
+	Establish and keep good relations with related government departments 
+		                         
+
+2006.04 - - 2008.10: 		Electronic Arts computer software (Shanghai) Co., Ltd
+Position: Assistant Personnel Development Manager  (2007.04 - - 2008.10）
+Report to: Coo, EA China Studios
+	Screen, recruit, interview and evaluate developer candidates
+	Conduct developer performance reviews through 1-on-1 meetings, peers and project leads 
+	Work with each developer to determine a professional development plan (PDP) 
+	Assist each developer to achieve his/her PDP goals 
+	Build strong relationship and trust with each developer and between developers
+	Determine development resource allocation with project managers, project leads and other development managers 
+	Collaborate with EA China HR and EA University and execute overall staffing and training strategy
+	Create a strong atmosphere with emphasis on company culture 
+	Event supporter and volunteer for company annual dinner, team events
+		                          Position: Administrator of GM
+					Report to: GM of EA China Studio (2006.04 - - 2007.03)
+	Organize office for maximum operational efficiency 
+	Process outgoing mail
+	Maintain confidential information
+	Sum up office IT equipment and miscellaneous office supplies
+	Brainstorm various promotional ways to stimulate team morale
+	Source potential suppliers and trace the market variation of constantly purchased goods and services
+	Coordinate between internal departments and suppliers
+	Screen and prioritize visitors, emails and telephone calls
+	Make travel and accommodation arrangements
+	Prepare and handle travel / general expense statement as requested by GM
+	Maintain/coordinate executive’s meeting schedules and make travel arrangements (domestic and foreign)
+	Interview candidates as needed
+
+2004.02 - - 2006.03:	    	Taiwan 3choices Information and Technology (Shanghai) Co., Ltd
+Position:  Internship (2004.02-2004.07) Office Manager (2004.07-2006.03)
+Report to: CEO 
+	Monitors office expenditures and evaluate the potential vendors 
+	Set up and implement policy and regulations
+	Draft staff handbook
+	Responsible for the internal & external visits
+	Arrange employees' travel plans, including offsite meetings, airfare and hotel
+	Coordinate visitors' meetings and logistics  
+Characters:
+
+	Proactive, high sense of confidentiality and responsibility and mature in thinking and able to work independently
+	Strong collaborative capabilities with conflict resolution and problem solving skills
+	Self-starter with strong skills in strategic planning and direct management 
+	Deliver top-notch results under pressure
+	Good communication and interpersonal skills, good team working
+	Good planning and co-ordination skills 
+	Good written and spoken English
+	Excellent written and spoken Chinese
+
+Education Details:
+
+2006.3---2009.1:	        Shanghai International Studies University
+Bachelor of English			      
+2001.9---2004.6:		Shanghai Industry & Commerce Foreign Language College
+Diploma of German
+
+
+Training Program:
+
+2014					English 101 (Bellevue College)
+2009					Accountant Certificate Training (Training School)
+2008                                   Development Director Boot Camp Training (EA)
+2007					         Power up Management Development Training (EA)
+2006					Peer Mentoring Training (EA)
+
  
  
   
