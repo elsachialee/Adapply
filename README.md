@@ -1,18 +1,15 @@
-## Welcome to Jia Li's Pages
+## Welcome to Jia Li's Resume
+
+#### Before the Resume
+
+The resume doesn’t include the period from the end of 2014 to now, when I was intermittently working with my husband on our startup – [Bit toys]( http://www.bit-toys.com/) [Bit toys Twitter](https://twitter.com/bittoys?lang=en). Since my two kids are born in 2012 and 2014, honestly, I contribute most of my energy to my kids. 
+Bit toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). At the meantime, we developed the dinosaur NFC mobile game. I was in charge of factory vender sourcing, the communication with Chinese subcontractors and helped with game design. Also, another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
+
+I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. I was promoted to the assistant DM, ensuring my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team. 
+People said it is hard to begin a new career at 30’s, as I read from a former Ada student. To me, I think what is harder is to start a new life in another country with different culture at 30’s.  As a woman at the age of 35, I am eager to be independent. It means not only financially independent but psychologically. As a mom with two kids, I also dream of being a role model. Life is full with changes and chances. Living in a country speaking Mandarin, the ability of English is my advantage, while in the States, it turns to be a weakness. I could have been upset and nerves, but I ask myself to be brave and positive. 
+I was planning on 2-year-MBA and scored GMAT 710 (90%+), but I want to try Ada before it since I think I am a qualified candidate. 
 
 
-
-It is THE ** _ Struggle _ **.
-
-   As a woman, I am eager to be finacially independent. Or in other words, I desire to share the fiancial burden on my guy. He was working on the his own startup for three years, a toy company. XXX. I am helping him with vendor sourcing, subcontractor communication and bookkeeping (bookkeeping certification obtain at Bellevue Community College).
-   
-  As a mom, sometimes, I ask myself what is going to happen if I have to raise kids by myself and how I can start my career. I moved to the States five years ago since my husband was tired of living in Shanghai, China. People said it is hard to begin a new career at their thirties, as I read from the former Ada students. To me, I think what is harder is to start your new life in another country with different culture at your thirties. 
-  
-  I majored in Egnlish when I was at college. Living in a country speaking Madarin, the ability of English is my advantage, while in the Sates, it turns to be a weakness. I could have spent another four years to get the second bachlor degree, but it is too long for me. When I was planning on 2-year-MBA and scored GMAT 710 (90%+), I was recommended by friends about Ada. An one year program is nothing but perfect for me. 
-  
-  I have been working for game companies for 6 years in Shanghai. I was exective administravtive. I am a highly organized and self driven individualal. Later, I was promoted to be XXX passionate, an accomplished communicator and a team player. I was the cofunder of a game studio. excellent organizational, decision making and time management skill. detail orietated , analytical and dynamic individual.
-  
-  I am looking forward to a chance.
   
 ## Resume of Jia Li
 
