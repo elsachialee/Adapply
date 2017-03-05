@@ -1,8 +1,8 @@
 ## Welcome to Jia Li's Pages
 
-It is 11:02pm March 02 when I was sitting down and starting typing. I looked at my two sleeping kids, and I asked myself why do I want to apply Ada.
 
-It is THE **_Struggle_**.
+
+It is THE ** _ Struggle _ **.
 
    As a woman, I am eager to be finacially independent. Or in other words, I desire to share the fiancial burden on my guy. He was working on the his own startup for three years, a toy company. XXX. I am helping him with vendor sourcing, subcontractor communication and bookkeeping (bookkeeping certification obtain at Bellevue Community College).
    
@@ -16,25 +16,20 @@ It is THE **_Struggle_**.
   
 ## Resume of Jia Li
 
-#### Part-time Working Experience:
-
-
-
 #### Full-time Working Experience:
 
 1. 2008.11 - - 2011.07:   Shanghai Bones Studios Co., Ltd
-
+  
 Position: Co-funder 
 
-  * Set up and implement policy and regulations; draft staff handbook
-  * Generate the agreements and benefits with employees
+  * Set up and implement office policy and regulations; draft staff handbook
+  * Generate the agreements and labor contracts with employees
   * Supervise the sourcing of suppliers and contracts 
-  * Conduct employee performance reviews with other funders
+  * Conduct employee performance reviews with co-funders
   * As the key person dealing with all the affairs 
-  * Submit administration cost summaries and monthly budget reports to other funders
-  * Establish and keep good relations with related government departments 
-		                         
-
+  * Charge of administration cost summaries
+  * Prepare monthly budget reports
+  
 2. 2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd
 
 Position: Assistant Personnel Development Manager   (2007.04 - - 2008.10）
@@ -63,7 +58,7 @@ _Report to: GM of EA China Studio_
   * Screen and prioritize visitors, emails and telephone calls
   * Make travel and accommodation arrangements
   * Maintain/coordinate executive’s meeting schedules and make travel arrangements (domestic and foreign)
-  * Interview candidates as needed
+  * Interview candidates for the studio team
 
 3. 2004.02 - - 2006.03:   Taiwan 3choices Information and Technology (Shanghai) Co., Ltd
 
