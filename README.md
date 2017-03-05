@@ -1,13 +1,22 @@
 ## Welcome to Jia Li's Resume
 
-#### Before the Resume
+#### _Before the Resume_
 
 The resume doesn’t include the period from the end of 2014 to now, when I was intermittently working with my husband on our startup – [Bit toys]( http://www.bit-toys.com/) [Bit toys Twitter](https://twitter.com/bittoys?lang=en). Since my two kids are born in 2012 and 2014, honestly, I contribute most of my energy to my kids. 
-Bit toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). At the meantime, we developed the dinosaur NFC mobile game. I was in charge of factory vender sourcing, the communication with Chinese subcontractors and helped with game design. Also, another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
+
+Bit-toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). At the meantime, we developed the dinosaur NFC mobile game. I was in charge of factory vendors sourcing, the communication with Chinese subcontractors and helped with game design. Another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
+
+I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. I was promoted to the assistant DM, ensuring my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team.
 
 I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. I was promoted to the assistant DM, ensuring my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team. 
-People said it is hard to begin a new career at 30’s, as I read from a former Ada student. To me, I think what is harder is to start a new life in another country with different culture at 30’s.  As a woman at the age of 35, I am eager to be independent. It means not only financially independent but psychologically. As a mom with two kids, I also dream of being a role model. Life is full with changes and chances. Living in a country speaking Mandarin, the ability of English is my advantage, while in the States, it turns to be a weakness. I could have been upset and nerves, but I ask myself to be brave and positive. 
-I was planning on 2-year-MBA and scored GMAT 710 (90%+), but I want to try Ada before it since I think I am a qualified candidate. 
+
+People said it is hard to begin a new career at 30’s, as I read from a former Ada student. To me, I think what is harder is to start a new life in another country with different culture at 30’s.  As a woman at the age of 35, I am eager to be independent. It means not only financially independent but psychologically. That's why I am not willing to work for Bit-toys. As a mom with two kids, I also dream of being a role model. I will let my kids know how I become an engineer in the future.  Life is full with changes and chances. Living in a country speaking Mandarin, the ability of English is my advantage, while in the States, it turns to be a weakness. I could have been upset and nerves, but I ask myself to be brave and positive. 
+
+I was planning on 2-year-MBA and scored GMAT 710 (90%+), but I want to try Ada as the priority since I think I am a qualified candidate. One year program is short enough for me, not memtioning then Internshiop included. I do need a chance to break the current paceful life situation. I am struggling. 
+
+Thank you for your time.
+
+Jia Li
 
 
   
