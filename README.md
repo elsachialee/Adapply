@@ -34,7 +34,7 @@ Position: Co-funder
   * Charge of administration cost summaries
   * Prepare monthly budget reports
   
-* 2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd *
+**2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd**
 
 Position: Assistant Personnel Development Manager   (2007.04 - - 2008.10）
 _Report to: Coo, EA China Studios_
@@ -64,7 +64,7 @@ _Report to: GM of EA China Studio_
   * Maintain/coordinate executive’s meeting schedules and make travel arrangements (domestic and foreign)
   * Interview candidates for the studio team
 
-2004.02 - - 2006.03:   Taiwan 3choices Information and Technology (Shanghai) Co., Ltd
+**2004.02 - - 2006.03:   Taiwan 3choices Information and Technology (Shanghai) Co., Ltd**
 
 Position:  Internship (2004.02-2004.07) Office Manager (2004.07-2006.03)
 
