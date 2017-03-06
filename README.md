@@ -22,7 +22,7 @@ Jia Li
 
 #### Full-time Working Experience:
 
-2008.11 - - 2011.07:   Shanghai Bones Studios Co., Ltd
+**2008.11 - - 2011.07:   Shanghai Bones Studios Co., Ltd**
   
 Position: Co-funder 
 
