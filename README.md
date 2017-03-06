@@ -34,7 +34,7 @@ Position: Co-funder
   * Charge of administration cost summaries
   * Prepare monthly budget reports
   
-2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd
+* 2006.04 - - 2008.10:   Electronic Arts computer software (Shanghai) Co., Ltd *
 
 Position: Assistant Personnel Development Manager   (2007.04 - - 2008.10）
 _Report to: Coo, EA China Studios_
