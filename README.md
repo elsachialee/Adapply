@@ -2,7 +2,7 @@
 
 #### _Before the Resume_
 
-The resume doesn’t include the period from the end of 2014 to now, when I was intermittently working with my husband on our startup – [Bit toys]( http://www.bit-toys.com/) [Bit toys Twitter](https://twitter.com/bittoys?lang=en). Since my two kids are born in 2012 and 2014, honestly, I contribute most of my energy to my kids. 
+The resume doesn’t include the period from the end of 2014 to now, when I was intermittently working with my husband on our startup – [Bit toys]( http://www.bit-toys.com/) [Bit toys Twitter](https://twitter.com/bittoys?lang=en). 
 
 Bit-toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). At the meantime, we developed the dinosaur NFC mobile game. I was in charge of factory vendors sourcing, the communication with Chinese subcontractors and helped with game design. Another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
 
