@@ -4,15 +4,13 @@
 
 The resume doesn’t include the period from the end of 2014 to now, when I was intermittently working with my husband on our startup – [Bit toys]( http://www.bit-toys.com/) [Bit toys Twitter](https://twitter.com/bittoys?lang=en). 
 
-Bit-toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). At the meantime, we developed the dinosaur NFC mobile game. I was in charge of factory vendors sourcing, the communication with Chinese subcontractors and helped with game design. Another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
+Bit-toys used to focus on NFC toys on mobile games and currently is making adjustments and developing VR games. We also provide B2B game solutions as we produce the NFC tokens to Activison (sold at the Game Shop). We developed the dinosaur NFC mobile game.Demo is available on the [Bit toys]( http://www.bit-toys.com/). I was in charge of factory vendors sourcing, the communication with Chinese subcontractors and helped with game design. My another role is the bookkeeper (bookkeeping certification accomplished at Bellevue Community College).
 
-I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. I was promoted to the assistant DM, ensuring my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team.
+I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. The job of an assistant DM ensures my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team.
 
-I moved to the States five years ago since my husband was tired of living in Shanghai, China. I worked for game companies for 6 years in Shanghai. As an executive administrative, I am a highly organized and self-driven individual. I was promoted to the assistant DM, ensuring my passionate, dynamic and analytical personality. I am an accomplished communicator and a good team player. I was the co-funder of a game outsourcing studio. My organizational ability, decision-making and time management skills are recognized by the team. 
+People said it is hard to begin a new career at 30’s, as I read from a former Ada student. To me, I think what is harder is to start a new life in another country with different culture at 30’s.  As a woman at the age of 35, I am eager to be independent. It means not only financially independent but psychologically. That's why I am not willing to work a fulltime job at Bit-toys. As a mom with two kids, I am supposed to be the role model of them. That's the another reason I want to learn more and make changes. I will encourage them to be brave and prepared to meet the challenges in the life as I did for the new carreer life as an engineer. Living in a country speaking Mandarin, the ability of English is my advantage, while in the States, it turns to be a weakness. I could have been upset and nerves, but I ask myself to be strong and positive. 
 
-People said it is hard to begin a new career at 30’s, as I read from a former Ada student. To me, I think what is harder is to start a new life in another country with different culture at 30’s.  As a woman at the age of 35, I am eager to be independent. It means not only financially independent but psychologically. That's why I am not willing to work for Bit-toys. As a mom with two kids, I also dream of being a role model. I will let my kids know how I become an engineer in the future.  Life is full with changes and chances. Living in a country speaking Mandarin, the ability of English is my advantage, while in the States, it turns to be a weakness. I could have been upset and nerves, but I ask myself to be brave and positive. 
-
-I was planning on 2-year-MBA and scored GMAT 710 (90%+), but I want to try Ada as the priority since I think I am a qualified candidate. One year program is short enough for me, not memtioning then Internshiop included. I do need a chance to break the current paceful life situation. I am struggling. 
+I was planning on 2-year-MBA and scored GMAT 710 (90%+), but I want to try Ada as the priority since I am interested in this program and I think I am a qualified candidate. One year program is short enough for me, not memtioning then Internshiop included. I do need a chance to break the current paceful life situation. I am struggling. 
 
 Thank you for your time.
 
@@ -98,51 +96,3 @@ Position:  Internship (2004.02-2004.07) Office Manager (2004.07-2006.03)
   * Development Director Boot Camp Training    EA China (2008)
   * Power up Management Development Training   EA China (2007)
   * Peer Mentoring Training                    EA China (2006)
-
- 
- 
-  
-  
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/elsachialee/Adapply/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elsachialee/Adapply/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
